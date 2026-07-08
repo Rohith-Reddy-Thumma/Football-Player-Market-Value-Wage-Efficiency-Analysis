@@ -1,5 +1,4 @@
-# Football Player Market Value & Wage Analysis
-
+# Player Valuation Strategy Dashboard: Identifying Wage Inefficiency and Contract Risk
 ## Project Overview
 This project analyzes the top 100 football players from the 2019 player dataset to understand how age, position, club, market value, and wages relate to one another. The goal was to turn raw player attributes into business-style insights that could help a football club, analyst, or scouting department evaluate player valuation, compensation patterns, and squad investment strategy.
 
